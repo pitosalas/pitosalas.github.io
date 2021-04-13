@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>A Brand New Nanoc Site</title>
+    <title>Default Layout</title>
     <link rel="stylesheet" href="/stylesheet.css">
 
     <!-- you don't need to keep this, but it's cool for stats! -->
@@ -10,7 +10,7 @@
   </head>
   <body>
     <div id="main">
-      <h1>A Brand New Nanoc Foo!!e</h1>
+      <h1>Index.html</h1>
 
 <p>You’ve just created a new Nanoc site. The page you are looking at right now is the home page for your site. To get started, consider replacing this default homepage with your own customized homepage. Some pointers on how to do so:</p>
 
