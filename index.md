@@ -21,9 +21,9 @@
 
 <p>If you need any help with customizing your Nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>
 
-<%= @items[:myfile] %>
-!
-<%= link_to("hello", @items[:myfile]) %>
+<p>!
+<a href="/myfile/">hello</a></p>
+
     </div>
     <div id="sidebar">
       <h2>Documentation</h2>
